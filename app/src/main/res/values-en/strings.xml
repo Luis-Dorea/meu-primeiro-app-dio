@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="ola_mundo">Hello World!</string>
+    <string name="saudacao">Hello friend!</string>
+    <string name="mensagem">Evolving is necessary.</string>
+</resources>
